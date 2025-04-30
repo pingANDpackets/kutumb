@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Environment and secrets
+*.env
+.env.*
+config.py
+*.key
+*.pem
+
+# Logs
+*.log
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.cache
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Pyre
+.pyre/
+
+# Pylint
+pylint-report.txt

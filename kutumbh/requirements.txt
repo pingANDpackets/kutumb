@@ -1,0 +1,6 @@
+openai
+azure-identity
+requests
+semantic-kernel
+azure-mgmt-resource 
+azure-mgmt-costmanagement
